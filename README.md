@@ -1,4 +1,2 @@
 # GoLang
-go code
-
-在学校时期学习的go语言，和beego框架
+go的基础语法使用，用go实现区块链公链的搭建，以及基于beego框架的项目
